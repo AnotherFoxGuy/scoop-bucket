@@ -1,0 +1,5 @@
+{
+    "version": "latest",
+    "url": "https://broth.itch.ovh/butler/windows-amd64/LATEST/archive/default#/latest.zip",
+    "bin": "butler.exe"
+}

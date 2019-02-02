@@ -1,0 +1,5 @@
+{
+    "version": "1.6.0",
+    "url": "https://github.com/streamlink/streamlink-twitch-gui/releases/download/v1.6.0/streamlink-twitch-gui-v1.6.0-win64.zip",
+    "bin": "streamlink-twitch-gui/streamlink-twitch-gui.exe"
+}

@@ -1,4 +1,10 @@
 {
+  "checkver": {
+    "github": "https://github.com/streamlink/streamlink-twitch-gui/"
+  },
+  "autoupdate": {
+    "url": "https://github.com/streamlink/streamlink-twitch-gui/releases/download/$version/streamlink-twitch-gui-$version-win64.zip"
+  },
     "version": "1.6.0",
     "url": "https://github.com/streamlink/streamlink-twitch-gui/releases/download/v1.6.0/streamlink-twitch-gui-v1.6.0-win64.zip",
     "bin": "streamlink-twitch-gui/streamlink-twitch-gui.exe"

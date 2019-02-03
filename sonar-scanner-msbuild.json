@@ -1,0 +1,9 @@
+{
+    "version": "4.5.0.1761",
+    "url": "https://github.com/SonarSource/sonar-scanner-msbuild/releases/download/4.5.0.1761/sonar-scanner-msbuild-4.5.0.1761-net46.zip",
+    "bin": [
+      "MSBuild.SonarQube.Runner.exe",
+      "SonarQube.Scanner.MSBuild.exe",
+      "SonarScanner.MSBuild.exe"
+    ]
+}

@@ -1,15 +1,16 @@
 {
-  "checkver": {
-    "github": "https://github.com/SonarSource/sonar-scanner-msbuild"
-  },
-  "autoupdate": {
-    "url": "https://github.com/SonarSource/sonar-scanner-msbuild/releases/download/$version/sonar-scanner-msbuild-$version-net46.zip"
-  },
-  "version": "4.5.0.1761",
-  "url": "https://github.com/SonarSource/sonar-scanner-msbuild/releases/download/4.5.0.1761/sonar-scanner-msbuild-4.5.0.1761-net46.zip",
-  "bin": [
-    "MSBuild.SonarQube.Runner.exe",
-    "SonarQube.Scanner.MSBuild.exe",
-    "SonarScanner.MSBuild.exe"
-  ]
+    "checkver": {
+        "github": "https://github.com/SonarSource/sonar-scanner-msbuild"
+    },
+    "autoupdate": {
+        "url": "https://github.com/SonarSource/sonar-scanner-msbuild/releases/download/$version/sonar-scanner-msbuild-$version-net46.zip"
+    },
+    "version": "4.6.0.1930",
+    "url": "https://github.com/SonarSource/sonar-scanner-msbuild/releases/download/4.6.0.1930/sonar-scanner-msbuild-4.6.0.1930-net46.zip",
+    "bin": [
+        "MSBuild.SonarQube.Runner.exe",
+        "SonarQube.Scanner.MSBuild.exe",
+        "SonarScanner.MSBuild.exe"
+    ],
+    "hash": "90824c07ad2ab2c9bf302fc56bb3a449855875281cc4a44687f10c14829d96e2"
 }

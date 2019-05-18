@@ -1,5 +1,6 @@
 {
     "version": "latest",
     "url": "https://github.com/fourtf/chatterino2/releases/download/nightly-win/chatterino2.zip",
-    "bin": "Chatterino2/chatterino.exe"
+    "bin": "Chatterino2/chatterino.exe",
+    "shortcuts": ["Chatterino2/chatterino.exe", "Chatterino2"]
 }

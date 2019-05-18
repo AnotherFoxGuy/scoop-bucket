@@ -1,11 +1,12 @@
 {
-    "homepage": "https://github.com/Depressurizer/Depressurizer",
-    "checkver": "github",
-    "autoupdate": {
-        "url": "https://github.com/Depressurizer/Depressurizer/releases/download/v$version/Depressurizer-v$version.zip"
-    },
-    "version": "4.10.0",
-    "url": "https://github.com/Depressurizer/Depressurizer/releases/download/v4.10.0/Depressurizer-v4.10.0.zip",
-    "bin": "Depressurizer.exe",
-    "hash": "7bdf0e5fcf7f5ad5247060d2f5e739551415d80dd05771dc66686964470edff1"
+  "homepage": "https://github.com/Depressurizer/Depressurizer",
+  "checkver": "github",
+  "autoupdate": {
+    "url": "https://github.com/Depressurizer/Depressurizer/releases/download/v$version/Depressurizer-v$version.zip"
+  },
+  "version": "4.10.0",
+  "url": "https://github.com/Depressurizer/Depressurizer/releases/download/v4.10.0/Depressurizer-v4.10.0.zip",
+  "bin": "Depressurizer.exe",
+  "hash": "7bdf0e5fcf7f5ad5247060d2f5e739551415d80dd05771dc66686964470edff1",
+  "shortcuts": ["Depressurizer.exe", "Depressurizer"]
 }

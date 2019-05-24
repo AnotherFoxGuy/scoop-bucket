@@ -1,7 +1,16 @@
 {
-    "version": "latest",
-    "url": "https://github.com/fourtf/chatterino2/releases/download/nightly-win/chatterino2.zip",
+    "homepage": "https://github.com/Chatterino/chatterino2/",
+    "checkver": {
+        "url": "https://api.github.com/repos/Chatterino/chatterino2/releases/tags/nightly-build",
+        "re": "v(?<version>[\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://github.com/Chatterino/chatterino2/releases/download/nightly-build/chatterino-windows-x86-64.zip"
+    },
+    "version": "1.0.983",
+    "url": "https://github.com/Chatterino/chatterino2/releases/download/nightly-build/chatterino-windows-x86-64.zip",
     "bin": "Chatterino2/chatterino.exe",
+    "hash": "128ac5ecfae3e4b45929861f020744643c999fdd878faaf7ee19fe372b1352a9",
     "shortcuts": [
         [
             "Chatterino2/chatterino.exe",

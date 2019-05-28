@@ -7,10 +7,10 @@
     "autoupdate": {
         "url": "https://github.com/Chatterino/chatterino2/releases/download/nightly-build/chatterino-windows-x86-64.zip"
     },
-    "version": "1.0.985",
+    "version": "1.0.988",
     "url": "https://github.com/Chatterino/chatterino2/releases/download/nightly-build/chatterino-windows-x86-64.zip",
     "bin": "Chatterino2/chatterino.exe",
-    "hash": "d3f4db6bdc3bd86e2b542dec14d5183b9396e70b5df6d251502ee921c7d7b115",
+    "hash": "c4b9aed57b211be785c57b9d022c43b71f8dc0bbc79af367a1160497fd171255",
     "shortcuts": [
         [
             "Chatterino2/chatterino.exe",

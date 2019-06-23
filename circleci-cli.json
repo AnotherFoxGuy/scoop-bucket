@@ -5,8 +5,8 @@
     "autoupdate": {
         "url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v$version/circleci-cli_$version_windows_amd64.zip"
     },
-    "version": "0.1.5652",
-    "url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v0.1.5652/circleci-cli_0.1.5652_windows_amd64.zip",
+    "version": "0.1.5691",
+    "url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v0.1.5691/circleci-cli_0.1.5691_windows_amd64.zip",
     "bin": "circleci-cli_0.1.5652_windows_amd64/circleci.exe",
-    "hash": "31c402d1b0d4d700ab23ebdc9e57ef59cb1e14926c04c327fb317cac2a4ddaba"
+    "hash": "a5fcf1b418d1743bedbbff67dd1945df22b0a1256442dd331a3ec6683aaaeb76"
 }

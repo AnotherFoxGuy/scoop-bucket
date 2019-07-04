@@ -6,6 +6,7 @@
     "url": "https://builder.blender.org/download/blender-2.80-c252fe7a32ab-win64.zip",
     "hash": "95a7ea0532b955f1f953d3c170eaf9362132154b5b4615839960c5fca88e8b75",
     "bin": "blender.exe",
+    "extract_dir": "blender-2.80.0-git.c252fe7a32ab-windows64",
     "shortcuts": [
         [
             "blender.exe",

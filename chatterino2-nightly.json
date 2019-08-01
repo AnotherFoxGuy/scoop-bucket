@@ -7,10 +7,10 @@
     "autoupdate": {
         "url": "https://github.com/Chatterino/chatterino2/releases/download/nightly-build/chatterino-windows-x86-64.zip"
     },
-    "version": "1023",
+    "version": "1026",
     "url": "https://github.com/Chatterino/chatterino2/releases/download/nightly-build/chatterino-windows-x86-64.zip",
     "bin": "Chatterino2/chatterino.exe",
-    "hash": "7ef4d7dd6a0ad484ae9630d73860028028632d24fc7621a03a47649996467e16",
+    "hash": "56aad5f67477fc029f58dfd839ea595d65cbc8b2c773784341a65a08d82d2f77",
     "shortcuts": [
         [
             "Chatterino2/chatterino.exe",

@@ -7,10 +7,10 @@
     "autoupdate": {
         "url": "https://binary-factory.kde.org/view/Windows%2064-bit/job/Kate_Release_win64/$version/artifact/kate-19.04.3-$version-windows-msvc2017_64-cl.7z"
     },
-    "version": "556",
-    "url": "https://binary-factory.kde.org/view/Windows%2064-bit/job/Kate_Release_win64/556/artifact/kate-19.04.3-556-windows-msvc2017_64-cl.7z",
+    "version": "557",
+    "url": "https://binary-factory.kde.org/view/Windows%2064-bit/job/Kate_Release_win64/557/artifact/kate-19.04.3-557-windows-msvc2017_64-cl.7z",
     "bin": "bin/kate.exe",
-    "hash": "1edf36d936ceb8ee6950731bbfb546b7da06c90096739d00af45014f8dc05d36",
+    "hash": "6fa22a8eea528ff8a2eb6c03d14e52634129813b9769d7488ac85907515646d1",
     "shortcuts": [
         [
             "bin/kate.exe",

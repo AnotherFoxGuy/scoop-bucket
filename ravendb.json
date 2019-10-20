@@ -1,0 +1,17 @@
+{
+    "checkver": {
+        "github": "https://github.com/ravendb/ravendb"
+    },
+    "autoupdate": {
+        "url": "https://daily-builds.s3.amazonaws.com/RavenDB-$version-windows-x64.zip"
+    },
+    "version": "4.2.4",
+    "url": "https://daily-builds.s3.amazonaws.com/RavenDB-4.2.4-windows-x64.zip",
+    "bin": [
+        [
+            "run.ps1",
+            "ravendb"
+        ]
+    ],
+    "hash": "8e65f887a677e78a92e57faf71363c17a1b2bf54b0c490f5b2618b597117dd99"
+}

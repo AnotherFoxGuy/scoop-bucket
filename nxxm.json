@@ -1,0 +1,12 @@
+{
+    "checkver": {
+        "github": "https://github.com/nxxm/nxxm"
+    },
+    "autoupdate": {
+        "url": "https://github.com/nxxm/nxxm/releases/download/v$version/nxxm-v$version-windows-win64.zip"
+    },
+    "version": "0.0.7",
+    "url": "https://github.com/nxxm/nxxm/releases/download/v0.0.7/nxxm-v0.0.7-windows-win64.zip",
+    "hash": "8238c47700c59a4a267cb3fb11b2c2974168e1bd54e50c9b45df95f9cbb30b0c",
+    "bin": "bin/nxxm.exe"
+}

@@ -1,0 +1,17 @@
+{
+    "homepage": "https://github.com/PowerShell/PowerShell/",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/PowerShell/PowerShell/releases/download/v$version/PowerShell-$version-win-x64.zip"
+    },
+    "version": "6.2.3",
+    "url": "https://github.com/PowerShell/PowerShell/releases/download/v6.2.3/PowerShell-6.2.3-win-x64.zip",
+    "bin": "pwsh.exe",
+    "hash": "af171ed197b167e2630044dba6344af8b291e8646f7276b63f1d84c166a41d33",
+    "shortcuts": [
+        [
+            "pwsh.exe",
+            "PowerShell Core 6"
+        ]
+    ]
+}

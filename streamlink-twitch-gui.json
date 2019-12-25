@@ -6,11 +6,12 @@
     },
     "version": "1.9.0",
     "url": "https://github.com/streamlink/streamlink-twitch-gui/releases/download/v1.9.0/streamlink-twitch-gui-v1.9.0-win64.zip",
-    "bin": "streamlink-twitch-gui/streamlink-twitch-gui.exe",
+    "bin": "streamlink-twitch-gui.exe",
     "hash": "9945397c2ca5e5fbc5a2a5308ab7b6f440564ae3405a0750d193b0bfcf402c77",
+    "extract_dir": "streamlink-twitch-gui",
     "shortcuts": [
         [
-            "streamlink-twitch-gui/streamlink-twitch-gui.exe",
+            "streamlink-twitch-gui.exe",
             "StreamLink Twitch GUI"
         ]
     ]

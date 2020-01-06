@@ -1,5 +1,6 @@
 {
     "version": "latest",
-    "url": " https://sonarqube.com/static/cpp/build-wrapper-win-x86.zip",
-    "bin": "build-wrapper-win-x86/build-wrapper-win-x86-64.exe"
+    "url": "https://sonarcloud.io/static/cpp/build-wrapper-win-x86.zip",
+    "extract_dir": "build-wrapper-win-x86",
+    "bin": "build-wrapper-win-x86-64.exe"
 }

@@ -1,0 +1,17 @@
+{
+    "checkver": {
+        "github": "https://github.com/LoopPerfect/buckaroo/"
+    },
+    "autoupdate": {
+        "url": "https://github.com/LoopPerfect/buckaroo/releases/download/v$version/buckaroo-windows.exe"
+    },
+    "version": "3.0.1",
+    "url": "https://github.com/LoopPerfect/buckaroo/releases/download/v3.0.1/buckaroo-windows.exe",
+    "hash": "ad49aab38307b1385ad824f77c438654a196ea2a4ea50ba06b7a2a75f1002443",
+    "bin": [
+        [
+            "buckaroo-windows.exe",
+            "buckaroo"
+        ]
+    ]
+}

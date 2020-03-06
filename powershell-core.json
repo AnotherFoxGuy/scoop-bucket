@@ -4,10 +4,10 @@
     "autoupdate": {
         "url": "https://github.com/PowerShell/PowerShell/releases/download/v$version/PowerShell-$version-win-x64.zip"
     },
-    "version": "6.2.4",
-    "url": "https://github.com/PowerShell/PowerShell/releases/download/v6.2.4/PowerShell-6.2.4-win-x64.zip",
+    "version": "7.0.0",
+    "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.0.0/PowerShell-7.0.0-win-x64.zip",
     "bin": "pwsh.exe",
-    "hash": "54af157b57c83731907460f3e24ac60852e7f6a685a748cac8717f3ba18188b6",
+    "hash": "cda2ca2227fbec2c753aa760859667b02007d14646a831bd908b8f749cbcc687",
     "shortcuts": [
         [
             "pwsh.exe",

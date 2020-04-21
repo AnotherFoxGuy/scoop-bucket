@@ -7,7 +7,7 @@
         "url": "https://github.com/cyberbotics/webots/releases/download/$version/webots-$version_setup.exe"
     },
     "env_set": {
-        "WEBOTSROOT": "$dir"
+        "WEBOTS_HOME": "$dir"
     },
     "version": "R2020a-rev1",
     "innosetup": true,

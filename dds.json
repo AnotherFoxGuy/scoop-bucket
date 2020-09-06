@@ -6,9 +6,9 @@
     "autoupdate": {
         "url": "https://github.com/vector-of-bool/dds/releases/download/$version/dds-win-x64.exe"
     },
-    "version": "0.1.0-alpha.4",
-    "url": "https://github.com/vector-of-bool/dds/releases/download/0.1.0-alpha.4/dds-win-x64.exe",
-    "hash": "9b47292f2452b6da0a047e6d1148b9df659be0dedc86cafcc666b2f27adcab53",
+    "version": "0.1.0-alpha.5",
+    "url": "https://github.com/vector-of-bool/dds/releases/download/0.1.0-alpha.5/dds-win-x64.exe",
+    "hash": "cea82918c9652c7755e06c53870384516ffc27749d70b2095b1e40ff02aacb78",
     "bin": [
         [
             "dds-win-x64.exe",

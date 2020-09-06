@@ -7,8 +7,8 @@
     "autoupdate": {
         "url": "https://broth.itch.ovh/butler/windows-amd64/$matchHead/archive/default#/latest.zip"
     },
-    "version": "v15.19.0",
-    "url": "https://broth.itch.ovh/butler/windows-amd64/15.19.0/archive/default#/latest.zip",
+    "version": "v15.20.0",
+    "url": "https://broth.itch.ovh/butler/windows-amd64/15.20.0/archive/default#/latest.zip",
     "bin": "butler.exe",
-    "hash": "314fd33d07cad03e27c861225b3be0ad16c2e10c26e34406b7bf4bba0597923e"
+    "hash": "74ed05ebd8f2abc0b5e9c7ccaead838f62cb5ceda5f9edd721bf8c73609410f7"
 }

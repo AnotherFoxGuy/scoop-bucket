@@ -1,0 +1,19 @@
+{
+    "checkver": {
+        "url": "https://api.github.com/repos/ipfs/ipget/tags",
+        "jp": "$[0].name"
+    },
+    "autoupdate": {
+        "url": "https://dist.ipfs.io/ipget/$version/ipget_$version_windows-amd64.zip"
+    },
+    "version": "v0.6.0",
+    "url": "https://dist.ipfs.io/ipget/v0.6.0/ipget_v0.6.0_windows-amd64.zip",
+    "hash": "e68ce24d744f0e72c1104ebb07b1dd68feadc2b9d031c3aba9d23259b1428e59",
+    "extract_dir": "ipget",
+    "bin": [
+        [
+            "ipget.exe",
+            "ipget"
+        ]
+    ]
+}

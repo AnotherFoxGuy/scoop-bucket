@@ -1,0 +1,18 @@
+{
+    "checkver": {
+        "url": "https://api.github.com/repos/freetubeapp/freetube/releases",
+        "jp": "$[0].tag_name"
+    },
+    "autoupdate": {
+        "url": "https://github.com/freetubeapp/freetube/releases/download/$version/freetube-$matchHead-win-x64-portable.zip"
+    },
+    "version": "v0.9.0-beta",
+    "url": "https://github.com/freetubeapp/freetube/releases/download/v0.9.0-beta/freetube-0.9.0-win-x64-portable.zip",
+    "hash": "091c846a27367da4dc122325e8c1c29413c662f1fe3a757c769602077ec08738",
+    "shortcuts": [
+        [
+            "FreeTube.exe",
+            "FreeTube"
+        ]
+    ]
+}

@@ -8,6 +8,7 @@
     "version": "2.2",
     "url": "https://github.com/elvissteinjr/DesktopPlus/releases/download/v2.2/DesktopPlus-2.2.zip",
     "hash": "8ffae39a48ab04a7fa6003435684feedb2339b83f35e3692295dd4741b4b60e2",
+    "extract_dir": "DesktopPlus",
     "shortcuts": [
         [
             "DesktopPlus.exe",

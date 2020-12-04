@@ -5,9 +5,9 @@
     "autoupdate": {
         "url": "https://github.com/elvissteinjr/DesktopPlus/releases/download/v$version/DesktopPlus-$version.zip"
     },
-    "version": "2.2",
-    "url": "https://github.com/elvissteinjr/DesktopPlus/releases/download/v2.2/DesktopPlus-2.2.zip",
-    "hash": "8ffae39a48ab04a7fa6003435684feedb2339b83f35e3692295dd4741b4b60e2",
+    "version": "2.3",
+    "url": "https://github.com/elvissteinjr/DesktopPlus/releases/download/v2.3/DesktopPlus-2.3.zip",
+    "hash": "7c5d923541007c24cc547627abdc857799fef0c65d11ee5986b1238248ef605a",
     "extract_dir": "DesktopPlus",
     "shortcuts": [
         [

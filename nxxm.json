@@ -5,8 +5,8 @@
     "autoupdate": {
         "url": "https://github.com/nxxm/nxxm/releases/download/v$version/nxxm-v$version-windows-win64.zip"
     },
-    "version": "0.0.8",
-    "url": "https://github.com/nxxm/nxxm/releases/download/v0.0.8/nxxm-v0.0.8-windows-win64.zip",
-    "hash": "2681eb338daf6490f83c9330db60a694b2c0954c014dfa9b424060e3fa91b027",
+    "version": "0.0.9",
+    "url": "https://github.com/nxxm/nxxm/releases/download/v0.0.9/nxxm-v0.0.9-windows-win64.zip",
+    "hash": "e4299c91182296a2c697a0f74773ec5232fabc7ffc6585e2adab42f4ffe69884",
     "bin": "bin/nxxm.exe"
 }

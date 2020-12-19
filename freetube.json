@@ -4,11 +4,11 @@
         "jp": "$[0].tag_name"
     },
     "autoupdate": {
-        "url": "https://github.com/freetubeapp/freetube/releases/download/$version/freetube-$matchHead-win-x64-portable.zip"
+        "url": "https://github.com/freetubeapp/freetube/releases/download/$version/freetube-$matchHead-win-x64-portable"
     },
-    "version": "v0.9.3-beta",
-    "url": "https://github.com/freetubeapp/freetube/releases/download/v0.9.3-beta/freetube-0.9.3-win-x64-portable.zip",
-    "hash": "aefe916dafe6bc6ff1fa9be2158fc38deb063b80fdc7927f3aae016bea9b3d7b",
+    "version": "v0.10.0-beta",
+    "url": "https://github.com/freetubeapp/freetube/releases/download/v0.10.0-beta/freetube-0.10.0-win-x64-portable",
+    "hash": "d630273e1d768ceedb09e412ce5420b0ecc3bce888746097a9ecfb092e1d502f",
     "shortcuts": [
         [
             "FreeTube.exe",

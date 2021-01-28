@@ -6,9 +6,9 @@
     "autoupdate": {
         "url": "https://github.com/freetubeapp/freetube/releases/download/$version/freetube-$matchHead-win-x64-portable.zip"
     },
-    "version": "v0.11.1-beta",
-    "url": "https://github.com/freetubeapp/freetube/releases/download/v0.11.1-beta/freetube-0.11.1-win-x64-portable.zip",
-    "hash": "c88a36081e51edd44aeb95424eeccda6ddbfa9d499725a6ca76f8d33a9ac4822",
+    "version": "v0.11.2-beta",
+    "url": "https://github.com/freetubeapp/freetube/releases/download/v0.11.2-beta/freetube-0.11.2-win-x64-portable.zip",
+    "hash": "edfdef681cbbdf9aea9fa1dca1dbc4df569b1d8f282cd72830b7a62b97a15a89",
     "shortcuts": [
         [
             "FreeTube.exe",

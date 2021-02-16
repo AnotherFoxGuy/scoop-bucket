@@ -4,10 +4,10 @@
     "autoupdate": {
         "url": "https://jenkins.castle-engine.io/public/builds/view3dscene/view3dscene-$version-win64-x86_64.zip"
     },
-    "version": "3.19.0",
+    "version": "4.1.0",
     "extract_dir": "view3dscene",
-    "url": "https://jenkins.castle-engine.io/public/builds/view3dscene/view3dscene-3.19.0-win64-x86_64.zip",
-    "hash": "8bf9415b14db2239e68fe42d8954b6f54b176efdb4d09daa472ef1cc464f5e67",
+    "url": "https://jenkins.castle-engine.io/public/builds/view3dscene/view3dscene-4.1.0-win64-x86_64.zip",
+    "hash": "fdd1faf29b7a431e12fc3b425526169e4708064561256bb77720c09526e7740d",
     "shortcuts": [
         [
             "view3dscene.exe",

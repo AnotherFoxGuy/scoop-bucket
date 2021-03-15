@@ -5,12 +5,12 @@
     "autoupdate": {
         "url": "https://github.com/SonarSource/sonar-scanner-msbuild/releases/download/$version/sonar-scanner-msbuild-$version-net46.zip"
     },
-    "version": "5.0.4.24009",
-    "url": "https://github.com/SonarSource/sonar-scanner-msbuild/releases/download/5.0.4.24009/sonar-scanner-msbuild-5.0.4.24009-net46.zip",
+    "version": "5.1.0.28487",
+    "url": "https://github.com/SonarSource/sonar-scanner-msbuild/releases/download/5.1.0.28487/sonar-scanner-msbuild-5.1.0.28487-net46.zip",
     "bin": [
         "MSBuild.SonarQube.Runner.exe",
         "SonarQube.Scanner.MSBuild.exe",
         "SonarScanner.MSBuild.exe"
     ],
-    "hash": "6ffb0a179e15f849989780ab55d52f72c475871a26f58b538209a5474750c582"
+    "hash": "5d540ae42f71ed25d344e308fdddcee7a7fd650970d8aa2974c765bda696c7fa"
 }

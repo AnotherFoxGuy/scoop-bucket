@@ -6,9 +6,9 @@
         "url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v$version/circleci-cli_$version_windows_amd64.zip",
         "extract_dir": "circleci-cli_$version_windows_amd64"
     },
-    "version": "0.1.15338",
-    "extract_dir": "circleci-cli_0.1.15338_windows_amd64",
-    "url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v0.1.15338/circleci-cli_0.1.15338_windows_amd64.zip",
+    "version": "0.1.15384",
+    "extract_dir": "circleci-cli_0.1.15384_windows_amd64",
+    "url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v0.1.15384/circleci-cli_0.1.15384_windows_amd64.zip",
     "bin": "circleci.exe",
-    "hash": "0d551aecfabf1e871848e44bdafa065ace2228663079c3f11fdca156ac1c8113"
+    "hash": "454803885e53686d9cd21e3944585604f2ef48eee8eb076e411f47b1d26dd47c"
 }

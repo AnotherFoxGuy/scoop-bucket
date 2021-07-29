@@ -5,8 +5,8 @@
     "autoupdate": {
         "url": "https://github.com/TheDiscordian/ipfs-sync/releases/download/v$version/ipfs-sync-win64.zip"
     },
-    "version": "0.5.3",
-    "url": "https://github.com/TheDiscordian/ipfs-sync/releases/download/v0.5.3/ipfs-sync-win64.zip",
-    "hash": "a2149dcff7d2faf6f68b72d371d9d31d4424482e2ff899093d8957431faaca24",
+    "version": "0.7.0",
+    "url": "https://github.com/TheDiscordian/ipfs-sync/releases/download/v0.7.0/ipfs-sync-win64.zip",
+    "hash": "a3a050992d09a0b3bc7c036fd227a079f4428ebfc3d97dafdb204227c205cb44",
     "bin": "ipfs-sync.exe"
 }

@@ -4,11 +4,11 @@
     "autoupdate": {
         "url": "https://github.com/Depressurizer/Depressurizer/releases/download/v$version/Depressurizer-v$version.zip"
     },
-    "version": "5.1.1",
-    "url": "https://github.com/Depressurizer/Depressurizer/releases/download/v5.1.1/Depressurizer-v5.1.1.zip",
+    "version": "5.2.0",
+    "url": "https://github.com/Depressurizer/Depressurizer/releases/download/v5.2.0/Depressurizer-v5.2.0.zip",
     "bin": "Depressurizer.exe",
     "persist": "database.json",
-    "hash": "cc277634d55c2c9d098870ff43eefa2383437a5372b2e183188d6df399c701ce",
+    "hash": "a9f92353c0ebfc85d42c3bb93df08cb380df003e2b694431b62c333fc58e4f26",
     "shortcuts": [
         [
             "Depressurizer.exe",

@@ -7,11 +7,12 @@
     },
     "version": "4.4.8",
     "url": "https://github.com/milostosic/MTuner/releases/download/v4.4.8/mtuner64.zip",
-    "bin": "MTuner/MTuner.exe",
+    "bin": "MTuner.exe",
+    "extract_dir": "MTuner",
     "hash": "a33785dcb9cc42f90dc963790f9aee4130dea4f654ccfdbd77f622bc9ff7e762",
     "shortcuts": [
         [
-            "MTuner/MTuner.exe",
+            "MTuner.exe",
             "MTuner"
         ]
     ]

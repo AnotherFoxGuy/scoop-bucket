@@ -1,0 +1,17 @@
+{
+    "checkver": {
+        "github": "https://github.com/tappi287/openvr_fsr_app"
+    },
+    "autoupdate": {
+        "url": "https://github.com/tappi287/openvr_fsr_app/releases/download/$version/OpenVR-FSR-App_$version_win64_portable.7z"
+    },
+    "version": "0.5.1",
+    "url": "https://github.com/tappi287/openvr_fsr_app/releases/download/0.5.1/OpenVR-FSR-App_0.5.1_win64_portable.7z",
+    "hash": "a1bca1bb8335cb63f90cc0092a8bfaabab05d7855c76343888ea1154a4c467ed",
+    "shortcuts": [
+        [
+            "openvr_fsr_app.exe",
+            "OpenVR FSR"
+        ]
+    ]
+}

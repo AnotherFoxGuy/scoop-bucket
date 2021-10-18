@@ -1,0 +1,13 @@
+{
+    "checkver": {
+        "github": "https://github.com/rami3l/pacaptr/"
+    },
+    "autoupdate": {
+        "url": "https://github.com/rami3l/pacaptr/releases/download/v$version/pacaptr-windows-amd64.tar.gz"
+    },
+    "version": "0.14.0",
+    "url": "https://github.com/rami3l/pacaptr/releases/download/v0.14.0/pacaptr-windows-amd64.tar.gz",
+    "hash": "289325a0bc3cc0510b4ff0d6efc578f570bd77b48b837ff1937ef53aac151160",
+    "bin": "pacaptr.exe"
+}
+

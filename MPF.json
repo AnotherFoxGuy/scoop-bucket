@@ -1,0 +1,18 @@
+{
+    "checkver": {
+        "github": "https://github.com/SabreTools/MPF"
+    },
+    "autoupdate": {
+        "url": "https://github.com/SabreTools/MPF/releases/download/$version/MPF_$version-net48.zip"
+    },
+    "version": "2.1",
+    "extract_dir": "net48",
+    "url": "https://github.com/SabreTools/MPF/releases/download/2.1/MPF_2.1-net48.zip",
+    "hash": "e0abab79a58a9498ff1e9ec8c1ed5a09a8452227ddf57c2ccf123564fd202843",
+    "shortcuts": [
+        [
+            "MPF.exe",
+            "Media Preservation Frontend"
+        ]
+    ]
+}

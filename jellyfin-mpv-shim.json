@@ -1,0 +1,18 @@
+{
+    "checkver": {
+        "github": "https://github.com/jellyfin/jellyfin-mpv-shim"
+    },
+    "autoupdate": {
+        "url": "https://github.com/jellyfin/jellyfin-mpv-shim/releases/download/v$version/jellyfin-mpv-shim_$version_installer.exe"
+    },
+    "version": "2.0.1",
+    "innosetup": true,
+    "url": "https://github.com/jellyfin/jellyfin-mpv-shim/releases/download/v2.0.1/jellyfin-mpv-shim_2.0.1_installer.exe",
+    "hash": "2218b01af538c6e995bc209a659336ed5f7fb0aa9dd9e2e67ba7702a0228c70b",
+    "shortcuts": [
+        [
+            "run.exe",
+            "jellyfin mpv"
+        ]
+    ]
+}

@@ -5,8 +5,8 @@
     "autoupdate": {
         "url": "https://github.com/rami3l/pacaptr/releases/download/v$version/pacaptr-windows-amd64.tar.gz"
     },
-    "version": "0.14.1",
-    "url": "https://github.com/rami3l/pacaptr/releases/download/v0.14.1/pacaptr-windows-amd64.tar.gz",
-    "hash": "68bf9e18388c29b9234b63ad61be0ac193da1a174953a2c40568f5d29dd8ebb2",
+    "version": "0.15.1",
+    "url": "https://github.com/rami3l/pacaptr/releases/download/v0.15.1/pacaptr-windows-amd64.tar.gz",
+    "hash": "65f5c4b652edb39e5e08f579f2819b0d77db49d8fbdc8160325922f8a17fdad3",
     "bin": "pacaptr.exe"
 }

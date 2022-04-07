@@ -6,10 +6,10 @@
         "url": "https://github.com/tappi287/openvr_fsr_app/releases/download/$version/OpenVR-FSR-App_$version_win64_portable.zip",
         "extract_dir": "OpenVR-FSR-App_$version_win64_portable"
     },
-    "version": "0.9.6",
-    "extract_dir": "OpenVR-FSR-App_0.9.6_win64_portable",
-    "url": "https://github.com/tappi287/openvr_fsr_app/releases/download/0.9.6/OpenVR-FSR-App_0.9.6_win64_portable.zip",
-    "hash": "21cfcb43511308ba41f57b14db3f69849b84cf17550b0fb2890796d233dd0af5",
+    "version": "0.9.7",
+    "extract_dir": "OpenVR-FSR-App_0.9.7_win64_portable",
+    "url": "https://github.com/tappi287/openvr_fsr_app/releases/download/0.9.7/OpenVR-FSR-App_0.9.7_win64_portable.zip",
+    "hash": "9e6269ba54528d7f6a02ec8f6ae598e7360e388d43f5658e00fca3982b5748ae",
     "shortcuts": [
         [
             "openvr_fsr_app.exe",

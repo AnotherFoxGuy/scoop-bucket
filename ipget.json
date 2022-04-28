@@ -6,9 +6,9 @@
     "autoupdate": {
         "url": "https://dist.ipfs.io/ipget/$version/ipget_$version_windows-amd64.zip"
     },
-    "version": "v0.7.0",
-    "url": "https://dist.ipfs.io/ipget/v0.7.0/ipget_v0.7.0_windows-amd64.zip",
-    "hash": "dbbbbda4a65edbfa06058d4e5e8d93ccf92421be88293af884a381bc3ef3e3a7",
+    "version": "v0.8.1",
+    "url": "https://dist.ipfs.io/ipget/v0.8.1/ipget_v0.8.1_windows-amd64.zip",
+    "hash": "497d6597c90c73c9166b5f4772f35ec8cbeb59c778ea6e3833237e2ba64205f0",
     "extract_dir": "ipget",
     "bin": [
         [

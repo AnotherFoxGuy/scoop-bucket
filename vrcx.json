@@ -5,9 +5,9 @@
     "autoupdate": {
         "url": "https://github.com/pypy-vrc/VRCX/releases/download/v$version/VRCX_$cleanVersion.zip"
     },
-    "version": "2022.07.13",
-    "url": "https://github.com/pypy-vrc/VRCX/releases/download/v2022.07.13/VRCX_20220713.zip",
-    "hash": "de70fbc104892e2a87c8994aba8f585b6e27624ec03ee701d55efe5c7c4b630c",
+    "version": "2022.07.30",
+    "url": "https://github.com/pypy-vrc/VRCX/releases/download/v2022.07.30/VRCX_20220730.zip",
+    "hash": "68ed0191f7e326050555120e6d4242c57c87ab3980e0f841360e4dd1abc067fb",
     "shortcuts": [
         [
             "VRCX.exe",

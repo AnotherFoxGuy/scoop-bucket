@@ -5,10 +5,10 @@
     "autoupdate": {
         "url": "https://github.com/castle-engine/view3dscene/releases/download/v$version/view3dscene-$version-win64-x86_64.zip"
     },
-    "version": "4.0.0",
+    "version": "4.2.0",
     "extract_dir": "view3dscene",
-    "url": "https://github.com/castle-engine/view3dscene/releases/download/v4.0.0/view3dscene-4.0.0-win64-x86_64.zip",
-    "hash": "f87d0423d7c22411bbea6430b31d4e9232c044fe1f52d3fb98382f257573bc8a",
+    "url": "https://github.com/castle-engine/view3dscene/releases/download/v4.2.0/view3dscene-4.2.0-win64-x86_64.zip",
+    "hash": "331c2666a79655d69c9fd792ecdadd0742784e2cf3ee4db95567e4460e70fee0",
     "shortcuts": [
         [
             "view3dscene.exe",

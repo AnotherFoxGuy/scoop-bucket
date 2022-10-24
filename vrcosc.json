@@ -1,0 +1,18 @@
+{
+    "checkver": {
+        "github": "https://github.com/VolcanicArts/VRCOSC"
+    },
+    "autoupdate": {
+        "url": "https://github.com/VolcanicArts/VRCOSC/releases/download/$version/VRCOSCSetup.exe"
+    },
+    "version": "2022.1016.0",
+    "extract_dir": "lib/native",
+    "url": "https://github.com/VolcanicArts/VRCOSC/releases/download/2022.1016.0/VRCOSCSetup.exe",
+    "hash": "0813ef3680b9e2d00dadaad6088c556ee73089c74c5983daae05e42a9a8f487d",
+    "shortcuts": [
+        [
+            "VRCOSC.exe",
+            "VRCOSC"
+        ]
+    ]
+}

@@ -5,9 +5,9 @@
     "autoupdate": {
         "url": "https://github.com/SabreTools/MPF/releases/download/$version/MPF_$version-net48.zip"
     },
-    "version": "2.3",
-    "url": "https://github.com/SabreTools/MPF/releases/download/2.3/MPF_2.3-net48.zip",
-    "hash": "05c127f4eed37ea12c5411c5436ab11f9930f2e3de8f66c77a8ecd65fc24098d",
+    "version": "2.4",
+    "url": "https://github.com/SabreTools/MPF/releases/download/2.4/MPF_2.4-net48.zip",
+    "hash": "246ed3884be011e5d994d65499fd412c1636a0d07420e949a9b3df9e479c27a7",
     "shortcuts": [
         [
             "MPF.exe",

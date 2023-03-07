@@ -5,10 +5,10 @@
     "autoupdate": {
         "url": "https://github.com/VolcanicArts/VRCOSC/releases/download/$version/VRCOSCSetup.exe#/dl.7z"
     },
-    "version": "2023.205.0",
+    "version": "2023.306.1",
     "extract_dir": "lib/native",
-    "url": "https://github.com/VolcanicArts/VRCOSC/releases/download/2023.205.0/VRCOSCSetup.exe#/dl.7z",
-    "hash": "72d5cb3be1ba5b929d17d3d178eb582c16e348c3d31785dce0d84f36af0a0dfe",
+    "url": "https://github.com/VolcanicArts/VRCOSC/releases/download/2023.306.1/VRCOSCSetup.exe#/dl.7z",
+    "hash": "2b1a97bc2427c75d54d041822c7038762988a054a718884dc57c6631a3fce56a",
     "shortcuts": [
         [
             "VRCOSC.exe",

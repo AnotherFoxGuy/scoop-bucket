@@ -1,13 +1,7 @@
 {
-    "checkver": {
-        "github": "https://github.com/emilianavt/VSeeFaceReleases"
-    },
-    "autoupdate": {
-        "url": "https://github.com/emilianavt/VSeeFaceReleases/releases/download/v$majorVersion/VSeeFace-v$version.zip"
-    },
-    "version": "1.13.38b3",
-    "url": "https://github.com/emilianavt/VSeeFaceReleases/releases/download/v1.13.38b/VSeeFace-v1.13.38b3.zip",
-    "hash": "29199A92A125F5C59B3901B4781492211E223CCD5E5085B9385743D126F1F7B5",
+    "version": "v1.13.38c2",
+    "url": "https://github.com/emilianavt/VSeeFaceReleases/releases/download/v1.13.38c/VSeeFace-v1.13.38c2.zip",
+    "hash": "262fac5a082726b317e738f86688aa64e1c84c402f444e061487dc6f54fa069f",
     "extract_dir": "VSeeFace",
     "bin": "VSeeFace.exe",
     "shortcuts": [

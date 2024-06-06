@@ -5,11 +5,11 @@
     "autoupdate": {
         "url": "https://github.com/milostosic/MTuner/releases/download/v$version/mtuner64.zip"
     },
-    "version": "4.7",
-    "url": "https://github.com/milostosic/MTuner/releases/download/v4.7/mtuner64.zip",
+    "version": "4.8",
+    "url": "https://github.com/milostosic/MTuner/releases/download/v4.8/mtuner64.zip",
     "bin": "MTuner.exe",
     "extract_dir": "MTuner",
-    "hash": "2ee267fc004a62fe98420a441ddd3bfc09e6778c7807a9f046a9fe54869a19bb",
+    "hash": "186417f13c3a6b1388b01c0204090270269267fed544f6e60ab394900d7da412",
     "shortcuts": [
         [
             "MTuner.exe",

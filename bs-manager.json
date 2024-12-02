@@ -5,9 +5,9 @@
     "autoupdate": {
         "url": "https://github.com/Zagrios/bs-manager/releases/download/v$version/bs-manager-$version-x64.nsis.7z"
     },
-    "version": "1.4.12",
-    "url": "https://github.com/Zagrios/bs-manager/releases/download/v1.4.12/bs-manager-1.4.12-x64.nsis.7z",
-    "hash": "27aa0080ef6c3bed3a91a2573144ea90958bbbd4cb39645477561d275292679d",
+    "version": "1.4.14",
+    "url": "https://github.com/Zagrios/bs-manager/releases/download/v1.4.14/bs-manager-1.4.14-x64.nsis.7z",
+    "hash": "14e8dce90c44bcb002f631e6d735ea9ab4d560cddbad1375775a7316233fe40c",
     "shortcuts": [
         [
             "BSManager.exe",

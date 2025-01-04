@@ -1,12 +1,12 @@
 {
-    "version": "1.8.2",
+    "version": "1.9.0",
     "description": "Command line client for VRChat Package Manager",
     "homepage": "https://github.com/vrc-get/vrc-get",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vrc-get/vrc-get/releases/download/v1.8.2/x86_64-pc-windows-msvc-vrc-get.exe#/vrc-get.exe",
-            "hash": "ab9b272935c4b6382b936fd3645953499f787d6a14ebe28cb38d1a39bd8896b9"
+            "url": "https://github.com/vrc-get/vrc-get/releases/download/v1.9.0/x86_64-pc-windows-msvc-vrc-get.exe#/vrc-get.exe",
+            "hash": "c4f8814eac3dad86397814cda3e1d4cc11b9f4377f53b4405f750d68d223d561"
         }
     },
     "bin": "vrc-get.exe",

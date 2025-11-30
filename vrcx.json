@@ -3,11 +3,11 @@
         "github": "https://github.com/vrcx-team/VRCX"
     },
     "autoupdate": {
-        "url": "https://github.com/vrcx-team/VRCX/releases/download/v$version/VRCX_$cleanVersion.zip"
+        "url": "https://github.com/vrcx-team/VRCX/releases/download/v$version/VRCX_$version.zip"
     },
-    "version": "2025.06.30",
-    "url": "https://github.com/vrcx-team/VRCX/releases/download/v2025.06.30/VRCX_20250630.zip",
-    "hash": "48aac18109e1729298fc39981916ffc304caa767406600cf2060d8145ecb8dd0",
+    "version": "2025.11.16",
+    "url": "https://github.com/vrcx-team/VRCX/releases/download/v2025.11.16/VRCX_2025.11.16.zip",
+    "hash": "23350b58477d2da92a910eb27407c06e4956e95cbc3c621aeb90231614127009",
     "shortcuts": [
         [
             "VRCX.exe",

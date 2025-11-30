@@ -7,9 +7,9 @@
     "autoupdate": {
         "url": "https://github.com/OscToys/OscGoesBrrr/releases/download/release%2F$version/OscGoesBrrr-setup.exe#/dl.7z"
     },
-    "version": "1.42.0",
-    "url": "https://github.com/OscToys/OscGoesBrrr/releases/download/release%2F1.42.0/OscGoesBrrr-setup.exe#/dl.7z",
-    "hash": "6444b505f495ae6b99d0eed8a779cc64d6eb1bd051c5397430aa88bbfbd42527",
+    "version": "1.44.0",
+    "url": "https://github.com/OscToys/OscGoesBrrr/releases/download/release%2F1.44.0/OscGoesBrrr-setup.exe#/dl.7z",
+    "hash": "4a5b0cdd8de2243e95d18dbb92791517b24cce50397a56e511004416d5a113f9",
     "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
         "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\`$R0\" -Force -Recurse"

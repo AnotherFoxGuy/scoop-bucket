@@ -5,10 +5,10 @@
     "autoupdate": {
         "url": "https://github.com/VolcanicArts/VRCOSC/releases/download/$version/VRCOSC-$version-live-full.nupkg#/dl.7z"
     },
-    "version": "2025.1216.0",
+    "version": "2026.116.0",
     "extract_dir": "lib/app",
-    "url": "https://github.com/VolcanicArts/VRCOSC/releases/download/2025.1216.0/VRCOSC-2025.1216.0-live-full.nupkg#/dl.7z",
-    "hash": "23a07c23561b14bace9c69c028f24875d38f6250e5f7e8f71dcd121bfc6ee786",
+    "url": "https://github.com/VolcanicArts/VRCOSC/releases/download/2026.116.0/VRCOSC-2026.116.0-live-full.nupkg#/dl.7z",
+    "hash": "cd79b96b521e3efc0cf103e0d9fa68b2bbce7b771a8e92c9799900ac0b413a99",
     "shortcuts": [
         [
             "VRCOSC.exe",

@@ -5,10 +5,10 @@
     "autoupdate": {
         "url": "https://github.com/jellyfin/jellyfin-mpv-shim/releases/download/v$version/jellyfin-mpv-shim_$version_installer.exe"
     },
-    "version": "3.1.0",
+    "version": "3.3.0",
     "innosetup": true,
-    "url": "https://github.com/jellyfin/jellyfin-mpv-shim/releases/download/v3.1.0/jellyfin-mpv-shim_3.1.0_installer.exe",
-    "hash": "4fbdfadcf028bcbb67375f808f5c8fe557635f4377a46e84550de32b9e002b5e",
+    "url": "https://github.com/jellyfin/jellyfin-mpv-shim/releases/download/v3.3.0/jellyfin-mpv-shim_3.3.0_installer.exe",
+    "hash": "f0530120004468b45668cd226e4ae254348f496046be2f7b84829f4877bfa014",
     "shortcuts": [
         [
             "run.exe",
